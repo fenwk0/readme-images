@@ -1,0 +1,1 @@
+[![Jekyll Contributors](https://opencollective.com/jekyll/contributors.svg?width=890&button=false)](../../graphs/contributors)
